@@ -92,17 +92,7 @@ or run the notebook in Google Colab/Jupyter Notebook.
 | HD95 | 4.73 mm |
 | Inference Time | 2.7 sec/volume |
 
-## Citation
 
-If you use this repository, please cite:
-
-```bibtex
-@article{Divyashree2026RLHOARNet,
-  title={RLHOARNet: A MONAI-Based 3D U-Net with Lightweight Residual Boundary Refinement for Multi-Modal Brain Tumor Segmentation},
-  author={Divyashree A and Rajesh Sharma R and Akey Sungeetha},
-  year={2026}
-}
-```
 
 ## Author
 
